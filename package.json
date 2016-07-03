@@ -1,0 +1,19 @@
+{
+  "name": "logging-app",
+  "version": "0.0.1",
+  "description": "Log incoming messages to db. Serve up throught REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffsnowdon/logging-app.git"
+  },
+  "author": "Jeff Snowdon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffsnowdon/logging-app/issues"
+  },
+  "homepage": "https://github.com/jeffsnowdon/logging-app#readme"
+}
