@@ -11,7 +11,7 @@ var server = net.createServer(function(socket) {
 	// Handle incoming messages from clients.
 	socket.on('data', function (data) {
 		logger.log(data);
-		logs.push(data);
+		// logs.push(data);
 	});
 });
 server.listen(8080);
